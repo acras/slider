@@ -2,14 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fff62507-bf0e-4e53-b9fd-ccab73f1c746" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery-anyslider.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.anyslider.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jquery.anyslider.js" afterPath="$PROJECT_DIR$/jquery.anyslider.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="slider.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="fff62507-bf0e-4e53-b9fd-ccab73f1c746" time="1393944612420" ignored="false" />
     <file path="/index.html" changelist="fff62507-bf0e-4e53-b9fd-ccab73f1c746" time="1393944630013" ignored="false" />
+    <file path="/jquery.anyslider.js" changelist="fff62507-bf0e-4e53-b9fd-ccab73f1c746" time="1393945235336" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,19 +29,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="8" selection-start="397" selection-end="397" vertical-scroll-proportion="0.56852794">
+            <state line="28" column="8" selection-start="397" selection-end="397" vertical-scroll-proportion="-14.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="jquery.anyslider.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="jquery.anyslider.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/jquery.anyslider.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="67" column="108" selection-start="1615" selection-end="1615" vertical-scroll-proportion="0.0">
+            <state line="85" column="26" selection-start="1974" selection-end="1974" vertical-scroll-proportion="0.64041096">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -67,14 +67,14 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/jquery.anyslider.js" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/jquery.anyslider.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="48" />
-    <option name="y" value="-4" />
+    <option name="x" value="-1318" />
+    <option name="y" value="764" />
     <option name="width" value="1319" />
     <option name="height" value="773" />
   </component>
@@ -144,7 +144,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="48" y="-4" width="1319" height="773" extended-state="6" />
+    <frame x="-1318" y="764" width="1319" height="773" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -227,19 +227,19 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/jquery.anyslider.js">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="67" column="108" selection-start="1615" selection-end="1615" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state line="28" column="8" selection-start="397" selection-end="397" vertical-scroll-proportion="-14.0">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/jquery.anyslider.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="8" selection-start="397" selection-end="397" vertical-scroll-proportion="0.56852794">
-          <folding />
+        <state line="85" column="26" selection-start="1974" selection-end="1974" vertical-scroll-proportion="0.64041096">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

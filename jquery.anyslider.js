@@ -83,6 +83,7 @@
 	$.fn.AnySlider = function () {
 		return this.each(function () {
 			var slider = $(this);
+            var anyslider;
 
 			// Bail if we already have a plugin instance for this element
 			if (slider.data('anyslider')) {
