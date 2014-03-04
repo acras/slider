@@ -1,0 +1,39 @@
+<html>
+<head>
+  <meta charset="utf-8">
+  <style>
+    #slider {
+    background-color: cyan;
+    width: 500px;
+    height: 200px;
+	-ms-touch-action: none;
+	overflow: auto;
+	position: relative;
+	touch-action: none;
+    }
+  </style>
+</head>
+
+<body>
+
+  <div id="slider">
+	<div id="um">
+		Primeira dica.
+	</div>
+	<div id="dois">
+		Segunda dica.
+	</div>
+	<div id="tres">
+		Terceira Dica.
+	</div>
+  </div>
+
+<script src="https://code.jquery.com/jquery-2.1.0.min.js"></script>
+<script src="jquery.anyslider.js"></script>
+  <script type="text/javascript">
+    $( document ).ready(function(e){
+      window.sl = $("#slider").AnySlider()});
+</script>
+
+</body>
+</html>
